@@ -1,4 +1,4 @@
-# Prices
+# Test Prices
 
 Proyecto sencillo de Laravel para practicar controladores y tests.
 
